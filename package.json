@@ -1,0 +1,23 @@
+{
+  "name": "corabotsitsit",
+  "version": "1.0.0",
+  "description": "Special edition of CoraBot for academic table parties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appelsiini1/CoraBotSitsit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Appelsiini1/CoraBotSitsit/issues"
+  },
+  "homepage": "https://github.com/Appelsiini1/CoraBotSitsit#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
