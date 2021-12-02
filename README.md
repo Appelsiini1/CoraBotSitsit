@@ -1,11 +1,11 @@
 # CoraBotSitsit
  Special edition of CoraBot for academic table parties
  
- How to install:
+ ## How to install:
  
- Download the code
- Run 'npm i' in the code directory
- Run the bot by executing 'node .' in the code directory.
+ 1. Download the code  
+ 2. Run 'npm i' in the code directory  
+ 3. Run the bot by executing 'node .' in the code directory.  
 
 ## MITEN KÄYTTÄÄ BOTTIA:
 
