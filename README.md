@@ -10,7 +10,7 @@
 ## MITEN KÄYTTÄÄ BOTTIA:
 
 1. Aloittaaksesi, kirjoita '/aloita'
-2. Valitse laulukirja
+2. Valitse laulukirja  
 Nyt voit valita toiminnon aina uudelleen.
 
 Muut komennot:
@@ -20,7 +20,7 @@ Muut komennot:
 ## HOW TO USE THE BOT:
 
 1. To start, type '/aloita'
-2. Select the song book to use.
+2. Select the song book to use.  
 Now you can continuously select the action to perform.
 
 Other commands:
