@@ -7,7 +7,7 @@
  Run 'npm i' in the code directory
  Run the bot by executing 'node .' in the code directory.
 
-##MITEN KÄYTTÄÄ BOTTIA:
+## MITEN KÄYTTÄÄ BOTTIA:
 
 1. Aloittaaksesi, kirjoita '/aloita'
 2. Valitse laulukirja
@@ -17,7 +17,7 @@ Muut komennot:
 '/info' Infoa botista
 '/ping' Pong!
 
-##HOW TO USE THE BOT:
+## HOW TO USE THE BOT:
 
 1. To start, type '/aloita'
 2. Select the song book to use.
