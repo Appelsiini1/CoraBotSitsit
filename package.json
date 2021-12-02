@@ -18,6 +18,13 @@
   },
   "homepage": "https://github.com/Appelsiini1/CoraBotSitsit#readme",
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.25.0",
+    "discord.js": "^13.3.1",
+    "lodash.random": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0"
   }
 }
