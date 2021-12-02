@@ -112,7 +112,7 @@ client.on('interactionCreate', async interaction => {
 							.setStyle("PRIMARY"),
 					);
 				
-				randInt = randomIntFromInterval(0, RUNTIME_SETTINGS[channelID]["SongBook"]["Songs"].length);
+				randInt = randomIntFromInterval(0, RUNTIME_SETTINGS[channelID]["SongBook"]["Songs"].length-1);
 				const selected = RUNTIME_SETTINGS[channelID]["SongBook"]["Songs"][randInt];
 				/*RUNTIME_SETTINGS[channelID]["SongBook"]["Songs"].splice(randInt, 1);*/
 
