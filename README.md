@@ -5,7 +5,9 @@
  
  1. Download the code  
  2. Run 'npm i' in the code directory  
- 3. Run the bot by executing 'node .' in the code directory.  
+ 3. Create a 'config.json' file and place the 'token', 'guildId' and 'clientId' in it.
+ 4. Execute 'node deploy-commands.js' to register the commands to your guild.
+ 5. Run the bot by executing 'node .' in the code directory.  
 
 ## MITEN KÄYTTÄÄ BOTTIA:
 
